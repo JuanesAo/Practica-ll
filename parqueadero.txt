@@ -1,0 +1,7 @@
+Vehiculo {placa = "asd 333", entrada = 2024-05-22 18:30:00.8220203 UTC, salida = Just 2024-05-22 18:30:24.3555749 UTC}
+Vehiculo {placa = "hol 123", entrada = 2024-05-22 17:24:50.9146637 UTC, salida = Nothing}
+Vehiculo {placa = "abc 111", entrada = 2024-05-21 21:29:04.8397694 UTC, salida = Nothing}
+Vehiculo {placa = "aaa 111", entrada = 2024-05-21 20:21:02.8116681 UTC, salida = Just 2024-05-21 21:29:49.9500061 UTC}
+Vehiculo {placa = "jkl 111", entrada = 2024-05-21 20:15:23.4222969 UTC, salida = Just 2024-05-21 20:17:29.6325162 UTC}
+Vehiculo {placa = "asd", entrada = 2024-05-21 20:14:20.9980466 UTC, salida = Just 2024-05-21 20:15:33.5133333 UTC}
+
